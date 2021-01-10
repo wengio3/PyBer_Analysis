@@ -18,4 +18,5 @@ When we look at the total fares by city type, we can see that although there are
 
 # Summary
 
+![Uploading IMG_0635.JPG…]()
 
