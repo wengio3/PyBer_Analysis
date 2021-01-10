@@ -18,4 +18,6 @@ When we look at the total fares by city type, we can see that although there are
 
 # Summary
 
+![IMG_0635](https://user-images.githubusercontent.com/74740339/104132773-b1bc8f80-533c-11eb-91de-35a0b366b892.JPG)
+
 
