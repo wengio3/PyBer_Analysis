@@ -20,4 +20,5 @@ When we look at the total fares by city type, we can see that although there are
 
 ![IMG_0635](https://user-images.githubusercontent.com/74740339/104132773-b1bc8f80-533c-11eb-91de-35a0b366b892.JPG)
 
+The analysis shows that the rural area is the most underserved followed by suburban areas. Although there should be a better strategy for adding more drivers to both the ruler and suburban areas, it mostly comes down to supply and demand. The urban areas generate more in total fare than both the ruler and suburban areas combined. Additionally, there are more riders in the urban areas than both the ruler and suburban areas combined, which indicates that the demand for rideshare service is more of a necessity in urban areas than in ruler and suburban areas.  
 
