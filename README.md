@@ -6,6 +6,7 @@ The purpose of this analysis is to determine the relationship between the type o
 
 
 # Results
+<img width="677" alt="Screen Shot 2021-01-10 at 8 58 41 AM" src="https://user-images.githubusercontent.com/74740339/104132465-9d779300-533a-11eb-9265-7147e6bf437e.png">
 
 From the summary, we can determine that rural areas are the most underserved with the highest average fare per ride at $34.62 and with total riders by city type being 5.3%  but with only 2.6% of total drivers by city type. The suburban area has an average fare per ride of $34.62  with 26.3%  of total riders by city type and 16.5% of total drivers. The urban areas with the lowest average per ride, with only $24.53, have a higher percentage of total drivers by city type and the highest total riders by city type, 80% 68.4%, respectively. 
 
